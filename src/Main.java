@@ -16,7 +16,7 @@ public class Main {
             }
             System.out.println();
         }
-        for (int t=n; t>=1; t--){
+        for (int t=n-1; t>=1; t--){
             for(int y=n-t; y>=1; y--){
                 System.out.print(" ");
             }
